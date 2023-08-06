@@ -1,0 +1,49 @@
+
+body{
+    text-align: center;
+    font-family: 'Meddon', cursive;
+}
+
+section{
+    text-align: center;
+    font-family: 'Meddon', cursive;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Meddon', cursive;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Meddon', cursive;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Meddon', cursive;
+}
+
+.background-image {
+    background-image: url("scroll.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    border: 100px;
+}
+
+
+
+#storyContainer {
+    text-align: center;
+    padding: 20px;
+}
+
+.button {
+    background-color:white;
+    color:darkred;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Meddon', cursive;
+}
