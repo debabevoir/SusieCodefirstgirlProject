@@ -34,8 +34,6 @@ storyContainer.appendChild(choice2Button);
 
 function revealForestStory() {
     // Display the forest story based on the user's choice
-    alert("inside of revealForest fxn");
-    console.log()
     const storyPart2 = document.createElement("p");
     storyPart2.textContent = yourName.value + " has encountered a magical creature... ";
     
